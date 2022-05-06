@@ -1,0 +1,41 @@
+.productsPageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px;
+
+}
+
+
+.productsTitle {
+    margin: 20px;
+}
+
+
+.productsContainer {
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 60px;
+    cursor: pointer;
+}
+
+.productsImage {
+    height: 200px;
+}
+
+.name,.price {
+   margin-top: 8px;
+}
+
+.sortBy {
+    margin: 5px;
+}
