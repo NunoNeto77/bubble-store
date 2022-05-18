@@ -52,9 +52,9 @@ const Products = (props: PaginationType) => {
     setSort(e.target.value);
   }
 
-  const totalPages: number = Math.ceil(
+ /* const totalPages: number = Math.ceil(
     props.totalProducts / props.productsPerPage
-  );
+  ); */
 
 
   return (
