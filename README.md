@@ -7,3 +7,5 @@ You can add items to a car.
 Filter and sort products by price.
 Search for products.
 
+
+![bubble-store image](../assets/bubble-store-1.png?raw=true)
